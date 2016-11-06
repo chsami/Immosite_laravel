@@ -1,0 +1,11 @@
+h3 {
+	border-bottom: 1px solid black;
+}
+
+#section1, section2 {
+	background-color: rgba(200, 200, 200, 0.65);
+}
+
+.ui-accordion-content {
+	/*height:200px !important;*/
+}

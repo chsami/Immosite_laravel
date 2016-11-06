@@ -1,0 +1,5 @@
+.small-image {
+	border:2px solid green;
+	margin-left:1%;
+	margin-bottom:1%;
+}

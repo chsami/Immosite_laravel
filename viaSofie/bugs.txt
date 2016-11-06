@@ -1,0 +1,7 @@
+Registratie form fouten - fixed?
+Registratie form gaat ni tijdens wachtwoord vergeten - fixed
+
+Nummer van gsm mag geen dots bevatten.
+
+compress files over network
+obfuscate & minimize files over network

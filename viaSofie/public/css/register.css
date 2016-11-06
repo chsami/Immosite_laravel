@@ -1,0 +1,56 @@
+.validInput {
+	/*background-color: rgba(77, 255, 136, 0.6);*/
+}
+
+.invalidInput {
+	background-color: rgba(255, 70, 70, 0.5);
+}
+
+
+#notification {
+	position: absolute;
+	max-width: 120px;
+	display:none;
+	z-index:999;
+}
+
+#notification > p {
+	color: #990000;
+}
+
+.custom-dropdown {
+	width: 156% !important;
+	margin-left: -5;
+}
+
+@media (max-width: 1200px) {
+	#notification {
+		visibility: hidden;
+	}
+	.custom-dropdown {
+		width: 100% !important;
+		margin-left: 2;
+	}
+}
+
+.progress {
+	display:none; !important
+}
+
+body {
+	font-family: 'Lato';
+}
+
+#container {
+	
+}
+
+#errors p {
+	color:#990000;
+	font-weight: bold;
+	white-space: pre-line;
+	text-align:center;
+}
+
+
+
